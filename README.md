@@ -6,11 +6,11 @@ Social Friend User App is a  C++ application that simulates a simplified social 
 
 ### User Features
 - **Creating user accounts/login**: Users can create new accounts and login if they have an existing account 
-  ![Login](Screenshots/Loginorcreateaccount.png)
+  ![Login](1.png)
 - **Edit user account/age/name/password etc**: Users can edit their details 
-   ![Edit](Screenshots/Edit.png)
+   ![Edit](2.png)
 - **Delete/Deactivate your account**:Users can delete/deactivate their account also can reactivate their account
-   ![Deleteaccount](Screenshots/Deactivate.png)
+   ![Deleteaccount](3.png)
 ### Friend System
 
 - **Connecting with friends/users**:Users can connect with various users and make them as friends
