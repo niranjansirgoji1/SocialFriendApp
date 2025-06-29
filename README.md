@@ -14,26 +14,26 @@ Social Friend User App is a  C++ application that simulates a simplified social 
 ### Friend System
 
 - **Connecting with friends/users**:Users can connect with various users and make them as friends
-    ![Connect](Screenshots/Connect.png)
+    ![Connect](4.png)
 - **Block/remove friends**:Users can block other users from connecting with them
 - **Search user/view Mutuals**:Users can search any user/view their friends.
-   ![Mutuals](Screenshots/Mutuals.png)
+   ![Mutuals](5.png)
 - **Friend suggestions**:Users get friend suggestions when they try to connect with any friend.
-   ![Suggestions](Screenshots/Suggestions.png)
+   ![Suggestions](6.png)
 ### Pair up option
 
 - **Send pair request to opposite gender**:User can pair up with their opposite gender and can requests to them to pair up
-    ![Pairup](Screenshots/Pairup.png)
+    ![Pairup](7.png)
 - **Accept or reject pair request**:Users can either reject or accept pair requests from other users.
-    ![Accept](Screenshots/Acceptpairup.png)
+    ![Accept](8.png)
 - **Remove pair connection**:Users can remove their current pair connection and then can pair up with someother
 
 ### Other Top Features
 
 - **Celebrity Dashboard**:Users can view the top most users of the app with most friends/connections
-   ![Celebrityranking](Screenshots/Celebrityranking.png)
+   ![Celebrityranking](9.png)
 - **Degree of Connection**:The top most feature of this app where user can check how closely they are connected to an user.
-   ![DegreeofConnection](Screenshots/Degreeofconnection.png)
+   ![DegreeofConnection](10.png)
 
 ## Concepts used
 
